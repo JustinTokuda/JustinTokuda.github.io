@@ -2,7 +2,7 @@
   "basics": {
     "name": "Justin Tokuda",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/Justin Tokuda.JPG",
+    "picture": "https://techfolios.github.io/template/images/Justin Tokuda github.JPG",
     "email": "jtokuda9@hawaii.edu",
     "phone": "808-382-0310",
     "website": "https://JustinTokuda.github.io",
@@ -31,8 +31,6 @@
     {
       "name": "Music",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
