@@ -25,21 +25,11 @@
         "username": "justintokuda",
         "url": "https://www.linkedin.com/in/justintokuda/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "Network Security",
+      "name": "Music",
       "keywords": [
         "Arduino",
         "TI MSP430"
